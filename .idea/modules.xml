@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-server-node1/eureka-server-node1.iml" filepath="$PROJECT_DIR$/eureka-server-node1/eureka-server-node1.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server-node2/eureka-server-node2.iml" filepath="$PROJECT_DIR$/eureka-server-node2/eureka-server-node2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server-node3/eureka-server-node3.iml" filepath="$PROJECT_DIR$/eureka-server-node3/eureka-server-node3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-producer1/service-producer1.iml" filepath="$PROJECT_DIR$/service-producer1/service-producer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-producer2/service-producer2.iml" filepath="$PROJECT_DIR$/service-producer2/service-producer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springclound-dist-demo.iml" filepath="$PROJECT_DIR$/.idea/springclound-dist-demo.iml" />
     </modules>
   </component>

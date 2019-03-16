@@ -9,12 +9,20 @@
         <module name="eureka-server-node1" />
         <module name="eureka-server-node2" />
         <module name="eureka-server-node3" />
+        <module name="service-consumer" />
+        <module name="service-producer1" />
+        <module name="service-producer2" />
+        <module name="service1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eureka-server-node1" target="1.8" />
       <module name="eureka-server-node2" target="1.8" />
       <module name="eureka-server-node3" target="1.8" />
+      <module name="service-consumer" target="1.8" />
+      <module name="service-producer1" target="1.8" />
+      <module name="service-producer2" target="1.8" />
+      <module name="service1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -6,7 +6,12 @@
         <option value="$PROJECT_DIR$/eureka-server-node1/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server-node2/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server-node3/pom.xml" />
+        <option value="$PROJECT_DIR$/service1/pom.xml" />
+        <option value="$PROJECT_DIR$/service-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/service-producer1/pom.xml" />
+        <option value="$PROJECT_DIR$/service-producer2/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

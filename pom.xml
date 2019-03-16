@@ -10,6 +10,9 @@
 	<module>eureka-server-node1</module>
 	<module>eureka-server-node2</module>
 	<module>eureka-server-node3</module>
+	<module>service-producer1</module>
+	<module>service-producer2</module>
+	<module>service-consumer</module>
 </modules>
 
 </project>
